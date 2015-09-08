@@ -1,0 +1,6 @@
+{:name "Predawn Skin"
+ :version "0.0.1"
+ :author "Andy McGuinness"
+ :source "https://github.com/andymcguinness/LightTable-predawn-skin"
+ :desc "Port of the Predawn skin to LightTable"
+ :behaviors "predawn-skin.behaviors"}
